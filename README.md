@@ -36,7 +36,7 @@ To run the application:
 3. Enter the title and follow the instructions on the Streamlit app to generate and preview the AI-generated blog post.
 
 ## Hosting
-  [Link](https://dashboardelectropi-hewqlystrcemmjadhtb2hw.streamlit.app/)
+  [Link](https://ai-generated-blog-generator-hdtz5aeasn5h3bgcm93bms.streamlit.app/)
   
 ## Contributing
 
