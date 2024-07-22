@@ -4,9 +4,7 @@ import requests
 import streamlit as st
 # import openai
 
-API_TOKEN = "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"
-# no free key :<
-# openai.api_key = "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"
+API_TOKEN = "your_api_key"
 
 def generate_text(prompt, model_url):
     API_URL = f"https://api-inference.huggingface.co/models/{model_url}"
